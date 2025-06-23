@@ -33,4 +33,4 @@ app.post('/create',function(req, res){
     })
 })
 
-app.listen("https://notes-phi-drab-66.vercel.app/");
+app.listen(3000);
